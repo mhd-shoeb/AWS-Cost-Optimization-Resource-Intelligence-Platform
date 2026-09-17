@@ -1,0 +1,42 @@
+month,service,cost
+01-08-26,Amazon Elastic Load Balancing,0.0004
+01-08-26,AWS Lambda,0.0001
+01-08-26,AWS CloudFormation,0
+01-08-26,AWS CloudTrail,0
+01-08-26,AWS Glue,0
+01-08-26,AWS Key Management Service,0
+01-08-26,AWS Secrets Manager,0
+01-08-26,Amazon API Gateway,0
+01-08-26,Amazon Athena,0
+01-08-26,Amazon Bedrock,0
+01-08-26,Amazon ElastiCache,0
+01-08-26,EC2 - Other,0
+01-08-26,Amazon Elastic Compute Cloud - Compute,0
+01-08-26,Amazon Relational Database Service,0
+01-08-26,Amazon Simple Notification Service,0
+01-08-26,Amazon Simple Queue Service,0
+01-08-26,Amazon Simple Storage Service,0
+01-08-26,Amazon Virtual Private Cloud,0
+01-08-26,AmazonCloudWatch,0
+01-08-26,AWS Data Transfer,-0.0005
+01-09-26,EC2 - Other,0.0058
+01-09-26,AWS Lambda,0.0001
+01-09-26,AWS CloudFormation,0
+01-09-26,AWS CloudShell,0
+01-09-26,AWS CloudTrail,0
+01-09-26,AWS Cost Explorer,0
+01-09-26,AWS Glue,0
+01-09-26,AWS IoT,0
+01-09-26,AWS Key Management Service,0
+01-09-26,AWS Secrets Manager,0
+01-09-26,Amazon Athena,0
+01-09-26,Amazon EC2 Container Registry (ECR),0
+01-09-26,Amazon Elastic Compute Cloud - Compute,0
+01-09-26,Amazon Elastic File System,0
+01-09-26,Amazon Simple Notification Service,0
+01-09-26,Amazon Simple Queue Service,0
+01-09-26,Amazon Simple Storage Service,0
+01-09-26,Amazon Virtual Private Cloud,0
+01-09-26,AmazonCloudWatch,0
+01-09-26,Tax,0
+01-09-26,AWS Data Transfer,-0.0058
